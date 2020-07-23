@@ -1,4 +1,4 @@
-# DJI-Osmo-Action-4K-4-3-SuperView-Effect
+# DJI Osmo Action 4K 4:3 to GoPro SuperView Effect
 
 The DJI Osmo Action does not have a "Gopro Hero Superview" like setting. However it does give us a 4:3 aspect ratio 4K full sensor mode. 
 By searching around, i found that what Gopro is doing with its super view is 
